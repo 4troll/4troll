@@ -1,4 +1,4 @@
 # 4troll
-https://mustafaabdulameer.herokuapp.com/
+Personal - https://mustafaabdulameer.herokuapp.com/
 
-https://umati.me/
+Umati - https://umati.me/
