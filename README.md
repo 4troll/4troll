@@ -7,6 +7,64 @@ Umati - https://www.umati.me/@mustafa - ~~temporarily down due to domain expiry~
 
 ### McMaster University (2022-)
 
+<details>
+<summary>
+<b>
+Computer Science
+</b>
+</summary>
+<table>
+    <tr>
+      <th>Code</th>
+      <th>Course Name</th>
+    </tr>
+    <tr>
+      <td>COMPSCI 4X03</td>
+      <td>Scientific Computation</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 1MD3</td>
+      <td>Introduction to Programming</td>
+    </tr>
+</table>
+</details>
+
+<details>
+<summary>
+<b>
+Mathematics
+</b>
+</summary>
+<table>
+    <tr>
+      <th>Code</th>
+      <th>Course Name</th>
+    </tr>
+    <tr>
+      <td>MATH 2X03</td>
+      <td>Advanced Calculus I (Calc. III)</td>
+    </tr>
+</table>
+</details>
+
+<details>
+<summary>
+<b>
+Statistics
+</b>
+</summary>
+<table>
+    <tr>
+      <th>Code</th>
+      <th>Course Name</th>
+    </tr>
+    <tr>
+      <td>STATS 2D03</td>
+      <td>Introduction to Probability</td>
+    </tr>
+</table>
+</details>
+
 ### University of Waterloo (2021-2022)
 
 <details>
