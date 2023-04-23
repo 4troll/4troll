@@ -1,4 +1,6 @@
 # Mustafa Abdulameer
+Unofficial transcript(s) provided upon request for confidentiality
+
 Resume - https://github.com/4troll/4troll/blob/main/Mustafa_Abdulameer_Resume%20(3).pdf
 
 Personal - https://mustafaabdulameer.herokuapp.com/ - temporarily down due to Heroku sunsetting free dynos
