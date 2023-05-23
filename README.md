@@ -23,6 +23,18 @@ Computer Science
       <th>Course Name</th>
     </tr>
     <tr>
+      <td>COMPSCI 1DM3</td>
+      <td>Discrete Math for Computer Science</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 1XC3</td>
+      <td>Computer Science Practice and Experience: Development Basics</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 1XD3</td>
+      <td>Computer Science Practice and Experience: Intro to Software Using Web Programming</td>
+    </tr>
+    <tr>
       <td>COMPSCI 4X03</td>
       <td>Scientific Computation</td>
     </tr>
@@ -61,6 +73,10 @@ Statistics
     <tr>
       <th>Code</th>
       <th>Course Name</th>
+    </tr>
+    <tr>
+      <td>STATS 2MB3</td>
+      <td>Statistical Methods and Applications</td>
     </tr>
     <tr>
       <td>STATS 2D03</td>
