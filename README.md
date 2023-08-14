@@ -57,6 +57,14 @@ Mathematics
       <th>Course Name</th>
     </tr>
     <tr>
+      <td>MATH 2LA3</td>
+      <td>Applications of Linear Algebra (Calc. III)</td>
+    </tr>
+    <tr>
+      <td>MATH 2XX3</td>
+      <td>Advanced Calculus II (Pre-Analysis)</td>
+    </tr>
+    <tr>
       <td>MATH 2X03</td>
       <td>Advanced Calculus I (Calc. III)</td>
     </tr>
