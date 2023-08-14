@@ -58,7 +58,7 @@ Mathematics
     </tr>
     <tr>
       <td>MATH 2LA3</td>
-      <td>Applications of Linear Algebra (Calc. III)</td>
+      <td>Applications of Linear Algebra</td>
     </tr>
     <tr>
       <td>MATH 2XX3</td>
