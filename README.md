@@ -1,12 +1,10 @@
 # Mustafa Abdulameer
 
-Resume - https://github.com/4troll/4troll/blob/main/Mustafa_Abdulameer_Resume%20(3).pdf
+Personal - https://mustafaabdulameer.herokuapp.com/ - down due to Heroku sunsetting free dynos
 
-Personal - https://mustafaabdulameer.herokuapp.com/ - temporarily down due to Heroku sunsetting free dynos
+Umati - https://www.umati.me/@mustafa - down due to Heroku sunsetting free dynos
 
-Umati - https://www.umati.me/@mustafa - temporarily down due to Heroku sunsetting free dynos
-
-## Coursework
+## Coursework (in reverse order of completion)
 
 ### McMaster University (2022-)
 
@@ -20,6 +18,38 @@ Computer Science
     <tr>
       <th>Code</th>
       <th>Course Name</th>
+    </tr>
+    <tr>
+      <td>COMPSCI 2XC3</td>
+      <td>Algorithms and Software Design</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 2SD3</td>
+      <td>Concurrent Systems</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 2DB3</td>
+      <td>Databases</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 2AC3</td>
+      <td>Automata and Computability</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 2ME3</td>
+      <td>Introduction to Software Development</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 2LC3</td>
+      <td>Logical Reasoning for Computer Science</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 2GA3</td>
+      <td>Computer Architecture</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 2C03</td>
+      <td>Data Structures and Algorithms</td>
     </tr>
     <tr>
       <td>COMPSCI 1DM3</td>
@@ -125,7 +155,7 @@ Computer Science
     </tr>
     <tr>
         <td>CS 136</td>
-        <td>Elementary Alg Design and Data Abstraction</td>
+        <td>Elementary Algorithm Design and Data Abstraction</td>
     </tr>
     <tr>
       <td>CS 135</td>
