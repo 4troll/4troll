@@ -4,7 +4,7 @@ Fourth-year McMaster Computer Science student seeking co-op opportunities in tec
 
 Updated resume/transcripts provided upon request.
 
-## Coursework (in reverse order of completion)
+## Coursework (reverse order)
 
 ### McMaster University (2022-)
 
