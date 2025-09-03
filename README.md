@@ -1,8 +1,8 @@
 # Mustafa Abdulameer
 
-Personal - https://mustafaabdulameer.herokuapp.com/ - down due to Heroku sunsetting free dynos
+Fourth-year McMaster Computer Science student seeking co-op opportunities in tech. CS-related interests are numerical analysis, machine learning, and backend dev.
 
-Umati - https://www.umati.me/@mustafa - down due to Heroku sunsetting free dynos
+Updated resume/transcripts provided upon request.
 
 ## Coursework (in reverse order of completion)
 
@@ -18,6 +18,38 @@ Computer Science
     <tr>
       <th>Code</th>
       <th>Course Name</th>
+    </tr>
+    <tr>
+      <td>COMPSCI 3AC3</td>
+      <td>Algorithms and Complexity</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 3N03</td>
+      <td>Computer Networks and Security</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 3TB3</td>
+      <td>Syntax-Based Tools & Compilers</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 4NL3</td>
+      <td>Natural Language Processing</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 4AL3</td>
+      <td>Applications of Machine Learning</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 4ML3</td>
+      <td>Fundamentals of Machine Learning</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 3MI3</td>
+      <td>Principles of Programming Languages</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 3SH3</td>
+      <td>Operating Systems</td>
     </tr>
     <tr>
       <td>COMPSCI 2XC3</td>
