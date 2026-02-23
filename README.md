@@ -2,7 +2,7 @@
 
 Fourth-year McMaster Computer Science student seeking co-op opportunities in tech. CS-related interests are numerical analysis, machine learning, and backend dev.
 
-Updated resume/transcripts provided upon request.
+Updated resume/transcripts provided upon request in order to prevent spam.
 
 ## Coursework (reverse order)
 
