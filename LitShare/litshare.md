@@ -2,4 +2,4 @@
 
 LitShare is a book discovery platform powered by a Bayesian recommendation model which leverages both book description embeddings (vector obtained from book synopses) as well as collaborative signals to deliver timely and relevant recommendations for each LitShare user.
 
-[Video](LitShare/20260209-1853-01.9647777.mp4)
+[Demonstration of "infinite scroll" explore page so far](exploredemo.mp4)
