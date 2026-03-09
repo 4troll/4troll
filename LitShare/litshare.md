@@ -11,3 +11,8 @@ Book Feature Vector:
 Here is a video demonstration of the "infinite scroll" explore page which is connected to the model.
 
 [![Watch the video](https://img.youtube.com/vi/whWrx5M9duM-C0/0.jpg)](https://www.youtube.com/watch?v=whWrx5M9duM-C0)
+
+Current Explore Page:
+
+<img width="1694" height="1227" alt="image" src="https://github.com/user-attachments/assets/120981fa-6d02-4216-befe-f0c9f52500f0" />
+
