@@ -1,8 +1,8 @@
 # LitShare (2025-2026 Capstone Project)
 
-<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/9c9206de-d6b6-43db-8b05-931143b2b258" />
-
 LitShare is a social book-sharing platform that empowers readers to organize their personal libraries, create curated booklists, and discover their next favourite read through personalized recommendations. By bridging the gap between social networking and literary discovery, it transforms the reading experience into a collaborative community journey. 
+
+<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/9c9206de-d6b6-43db-8b05-931143b2b258" />
 
 The platform is powered by a Bayesian recommendation model which leverages both book description embeddings (currently 512-dim vectors obtained from book synopses using RoBERTa-XLM) as well as collaborative signals to deliver timely and relevant recommendations for each LitShare user. The candidate pool is generated using cosine similarity as well as user-specified filters such as keyword search, authors, publication year, number of pages, etc.
 
