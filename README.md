@@ -11,7 +11,37 @@ Updated resume/transcripts provided upon request in order to prevent spam.
 <details>
 <summary>
 <b>
-Computer Science
+Computer Science (Technical Electives)
+</b>
+</summary>
+<table>
+    <tr>
+      <th>Code</th>
+      <th>Course Name</th>
+    </tr>
+    <tr>
+      <td>COMPSCI 4NL3</td>
+      <td>Natural Language Processing</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 4AL3</td>
+      <td>Applications of Machine Learning</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 4ML3</td>
+      <td>Fundamentals of Machine Learning</td>
+    </tr>
+    <tr>
+      <td>COMPSCI 4X03</td>
+      <td>Scientific Computation</td>
+    </tr>
+</table>
+</details>
+
+<details>
+<summary>
+<b>
+Computer Science (Core)
 </b>
 </summary>
 <table>
