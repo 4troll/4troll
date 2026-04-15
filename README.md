@@ -6,7 +6,7 @@ Updated resume/transcripts provided upon request in order to prevent spam.
 
 ## Coursework (reverse order)
 
-### McMaster University (2022-)
+### McMaster University (2022-2026)
 
 <details>
 <summary>
